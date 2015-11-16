@@ -9,6 +9,11 @@ import org.kie.api.runtime.KieSession;
  */
 public class DroolsTest {
 
+	/**
+	 * This is main method
+	 * 
+	 * @param args
+	 */
     public static final void main(String[] args) {
         try {
             // load up the knowledge base
