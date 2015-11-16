@@ -32,6 +32,11 @@ public class DroolsTest {
         }
     }
 
+    /**
+     * Message class object
+     * @author pduleba
+     *
+     */
     public static class Message {
 
         public static final int HELLO = 0;
